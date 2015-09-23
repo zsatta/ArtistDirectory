@@ -1,0 +1,32 @@
+[
+	{
+		"name":"Zoheb Satta",
+		"shortname":"Zoheb_Satta",
+		"reknown": "UIUC",
+		"bio":"Zoheb is transferring to San Jose State University soon...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text"
+	},
+	{
+		"name":"Person Four",
+		"shortname":"Peep_4",
+		"reknown": "DDD",
+		"bio":"Person 2 was...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text"
+	},
+	{
+		"name":"Person One",
+		"shortname":"Peep_1",
+		"reknown": "AAA",
+		"bio":"Person 1 is...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text"
+	},
+	{
+		"name":"Person Two",
+		"shortname":"Peep_2",
+		"reknown": "BBB",
+		"bio":"Person 2 was...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text"
+	},
+	{
+		"name":"Person Three",
+		"shortname":"Peep_3",
+		"reknown": "CCC",
+		"bio":"Person 3 will be...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text...text text text"
+	}
+]
